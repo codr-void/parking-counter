@@ -64,11 +64,11 @@
       39,
       40
     ],
-    "visible_layers": "007ffff_80000001",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "parking_counter.kicad_prl",
+    "filename": "parking_counter_1.kicad_prl",
     "version": 3
   },
   "project": {
